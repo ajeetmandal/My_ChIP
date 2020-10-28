@@ -1,5 +1,5 @@
 # My_ChIP
-I have ChIP-Seq data that requires to get analysed.
+ChIP-Seq data analysis.
 The begraph files are as follows:
 For treatment 1: zr1312_2_summits.bed.gz
 For treatment 2: zr1312_3_summits.bed.gz
